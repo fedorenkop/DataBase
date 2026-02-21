@@ -23,7 +23,6 @@ ER-диаграммы
 Вычисляемые столбцы	Short_DEPT (LEFT(DEPT, 2))
 Структура БД
 
-text
 Schemas/
 ├── Persons/
 │   ├── EMPLOYEE (id, first_name, last_name, gender, birthdate, email, ...)
